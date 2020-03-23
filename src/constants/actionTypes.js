@@ -1,0 +1,2 @@
+export const CLEAR_STORE = 'CLEAR_STORE'; 
+export const INCREASE_COUNTER = 'INCREASE_COUNTER';
